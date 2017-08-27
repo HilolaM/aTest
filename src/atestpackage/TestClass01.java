@@ -8,6 +8,7 @@ public class TestClass01 {
 		System.out.println("Test sending to GitHub");
 		System.out.println();
 		System.out.println("another test");
+		System.out.println("next version");
 		
 	}
 	
