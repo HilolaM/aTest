@@ -1,6 +1,6 @@
 package atestpackage;
 
-public class testClass {
+public class TestClass01 {
 	
 	public static void main(String[] args) {
 		
