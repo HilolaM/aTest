@@ -6,6 +6,7 @@ public class testClass {
 		
 		
 		System.out.println("Test sending to GitHub");
+		System.out.println();
 		
 	}
 	
